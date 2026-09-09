@@ -1,7 +1,7 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
 <h3>Name:  KARTHIK G     </h3>
 <h3>Register Number:  212223220043       </h3>
-<h3>date : 30/07/26 </h3>
+<h3>date : 09/09/26 </h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
